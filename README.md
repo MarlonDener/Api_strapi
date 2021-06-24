@@ -1,3 +1,4 @@
-# Strapi application
+<h4>Api completa</h4>
 
-A quick description of your strapi application
+Link para acessar os dados:
+https://strapi-landing-pages-project-1.herokuapp.com/pages?slug=dev-md
